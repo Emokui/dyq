@@ -1,3 +1,5 @@
+Frok自CM大佬 仅作为自用trojan订阅器
+
 # 优选订阅生成器 WorkerVless2sub
 
 ### 这个是一个通过 Cloudflare Workers 搭建，自动生成优选线路 VLESS 节点订阅内容生成器
